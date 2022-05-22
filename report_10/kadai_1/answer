@@ -1,0 +1,5 @@
+java RevPolishNotationCalc < input
+3 9 5 + - = -11.0
+3 1 5 + = InvalidEquation: 式が不正: 3 1 5 +
+1 a 9 + - = InvalidTerm: 項が不正: a
+3 2 / 5 6 + * = 16.5
